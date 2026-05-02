@@ -1,0 +1,589 @@
+[
+  {
+    "id": "todai-bunkei",
+    "name": "东京大学",
+    "department": "人文社会系研究科",
+    "campus": "本乡",
+    "activeSeason": "summer",
+    "seasons": {
+      "summer": {
+        "status": "verified",
+        "ddl": [
+          {
+            "event": "检定料振込开始",
+            "date": "2026-06-08",
+            "displayText": "2026年6月8日（周一）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified"
+          },
+          {
+            "event": "出愿期间（书留邮寄）",
+            "date": "2026-06-15",
+            "displayText": "2026年6月15日（周一）～6月22日（周一）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "6月23日以后到达者：需6月22日前消印且6月29日前到达"
+          },
+          {
+            "event": "第一次考试（笔试）",
+            "date": "2026-08-29",
+            "displayText": "2026年8月29日（周六）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "外语试验9:30～11:30，专门科目13:00～16:00，论文试验17:00～19:00（仅社会学専門分野）"
+          },
+          {
+            "event": "第二次考试（口述试）",
+            "date": "2026-09-05",
+            "displayText": "2026年9月5日（周六）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified"
+          }
+        ],
+        "materials": [
+          {
+            "name": "入学願書",
+            "format": "纸质，研究科所定样式",
+            "medium": "paper",
+            "riskLevel": "high",
+            "note": "须填写志望専門分野名（非専攻名/コース名），及外语考试科目选择"
+          },
+          {
+            "name": "研究計画書",
+            "format": "纸质，研究科所定样式；社会学方向须附8000字卒业论文构想或研究要旨，并附日文摘要约8000字",
+            "medium": "paper",
+            "riskLevel": "high",
+            "note": "社会学専門分野特殊要求：需同时提交论文要旨（3部，含复写）"
+          },
+          {
+            "name": "成績証明書",
+            "format": "原件，大学出具，不可复印",
+            "medium": "paper",
+            "riskLevel": "high",
+            "note": "コピー不可"
+          },
+          {
+            "name": "卒業（見込）証明書",
+            "format": "原件，不可复印；若成績証明書已记载毕业年月日则免",
+            "medium": "paper",
+            "riskLevel": "medium",
+            "note": "外国大学毕业者需含取得学位记载；コピー不可"
+          },
+          {
+            "name": "日语能力证明",
+            "format": "担任教员证明书 或 JLPT N1认定结果证明书（复印件可）",
+            "medium": "paper",
+            "riskLevel": "medium",
+            "note": "日本国内大学毕业或在读者免提交"
+          },
+          {
+            "name": "検定料 30,000円",
+            "format": "银行转账/便利店支付/Payjoy/信用卡/支付宝/银联，振込期间内完成",
+            "medium": "online",
+            "riskLevel": "medium",
+            "note": "夏季振込期间：6月8日～6月22日；文部省奖学金留学生免缴"
+          },
+          {
+            "name": "写真 2葉",
+            "format": "3个月内拍摄，正面上半身脱帽，縦5cm×横4cm，背面写姓名",
+            "medium": "paper",
+            "riskLevel": "low",
+            "note": "黑白彩色均可"
+          },
+          {
+            "name": "受験票送付用封筒",
+            "format": "贴410円邮票，填写日本国内地址",
+            "medium": "paper",
+            "riskLevel": "medium",
+            "note": "须填写日本国内住所，海外地址不可"
+          }
+        ],
+        "warnings": [
+          {
+            "level": "high",
+            "text": "出愿仅限书留邮寄，不接受窗口提交。请使用研究科所定封筒，郵便局指定「書留郵便」寄出。"
+          },
+          {
+            "level": "high",
+            "text": "消印规则：6月22日截止，6月23日后到达者需有6月22日前消印且6月29日前到达方可受理。"
+          },
+          {
+            "level": "medium",
+            "text": "社会学専門分野特殊要求：需额外提交8000字论文要旨（3部）及日文摘要，与其他専門分野材料不同。"
+          }
+        ]
+      },
+      "winter": {
+        "status": "verified",
+        "ddl": [
+          {
+            "event": "検定料振込开始",
+            "date": "2026-10-12",
+            "displayText": "2026年10月12日（周一）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified"
+          },
+          {
+            "event": "出愿期间（书留邮寄）",
+            "date": "2026-10-19",
+            "displayText": "2026年10月19日（周一）～10月26日（周一）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "10月27日以后到达者：需10月26日前消印且11月2日前到达"
+          },
+          {
+            "event": "第一次考试（笔试）",
+            "date": "2027-01-23",
+            "displayText": "2027年1月23日（周六）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "外语试验9:30～11:30，专门科目13:30～16:00，论文试验17:00～19:00（仅社会学専門分野）"
+          },
+          {
+            "event": "第二次考试（口述试）",
+            "date": "2027-02-09",
+            "displayText": "2027年2月9日（周二）",
+            "sourceUrl": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "死生学・現代文芸論・文化資源学・韓国朝鮮文化研究専攻为2月8日（周一）"
+          }
+        ],
+        "materials": "same_as_summer",
+        "warnings": [
+          {
+            "level": "high",
+            "text": "出愿仅限书留邮寄。消印规则：10月26日截止，10月27日后到达者需有10月26日前消印且11月2日前到达。"
+          }
+        ]
+      }
+    },
+    "officialUrls": [
+      {
+        "label": "令和9(2027)年度募集要项PDF",
+        "url": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf",
+        "verifiedAt": "2026-04-30"
+      },
+      {
+        "label": "招生总览页",
+        "url": "https://www.l.u-tokyo.ac.jp/graduateschool/appgb.html",
+        "verifiedAt": "2026-04-30"
+      },
+      {
+        "label": "教員一覧",
+        "url": "https://www.l.u-tokyo.ac.jp/teacher/list.html",
+        "verifiedAt": "2026-04-30"
+      }
+    ],
+    "facultyIds": [],
+    "has_mentor_library": true,
+    "examType": "general"
+  },
+  {
+    "id": "todai-sogo",
+    "name": "东京大学",
+    "department": "综合文化研究科",
+    "campus": "驹场",
+    "activeSeason": "winter",
+    "seasons": {
+      "summer": {
+        "status": "inactive"
+      },
+      "winter": {
+        "status": "verified",
+        "ddl": [
+          {
+            "event": "募集要项公开",
+            "date": "2026-07-04",
+            "displayText": "2026年7月4日",
+            "sourceUrl": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "参考2026年度，2027年度日期待官网发布后核验"
+          },
+          {
+            "event": "出愿在线登记・资料提交",
+            "date": null,
+            "displayText": "2026年10月上旬〜中旬（参考往年）",
+            "sourceUrl": "https://www.c.u-tokyo.ac.jp/admission/graduateschool/index.html",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "updating",
+            "referenceNote": "参考2026年度，2027年度以官网实际发布为准"
+          },
+          {
+            "event": "第一次考试（笔试）",
+            "date": null,
+            "displayText": "2026年12月上旬（参考往年）",
+            "sourceUrl": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "updating"
+          },
+          {
+            "event": "第一次考试合格发表",
+            "date": null,
+            "displayText": "2026年12月下旬（参考往年）",
+            "sourceUrl": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "updating"
+          },
+          {
+            "event": "第二次考试（口述试）",
+            "date": null,
+            "displayText": "2027年1月下旬〜2月上旬（参考往年）",
+            "sourceUrl": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "updating"
+          },
+          {
+            "event": "最终合格发表",
+            "date": null,
+            "displayText": "2027年2月中旬（参考往年）",
+            "sourceUrl": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "updating"
+          }
+        ],
+        "materials": [],
+        "warnings": [
+          {
+            "level": "high",
+            "text": "本页仅适用于文系4専攻（言語情報科学・超域文化科学・地域文化研究・国際社会科学）。広域科学専攻（理系）时间轴完全不同，请勿混淆。"
+          },
+          {
+            "level": "medium",
+            "text": "全线上申请：出愿者信息在线登记＋资料上传，无纸质邮寄环节。"
+          }
+        ]
+      }
+    },
+    "officialUrls": [
+      {
+        "label": "入试总入口",
+        "url": "https://www.c.u-tokyo.ac.jp/admission/graduateschool/index.html",
+        "verifiedAt": "2026-04-30"
+      },
+      {
+        "label": "募集要项PDF（文系4専攻，2026年度参考）",
+        "url": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf",
+        "verifiedAt": "2026-04-30"
+      },
+      {
+        "label": "教員紹介・検索",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/index.html",
+        "verifiedAt": "2026-04-30"
+      }
+    ],
+    "facultyIds": [],
+    "has_mentor_library": true,
+    "examType": "general"
+  },
+  {
+    "id": "hitotsubashi",
+    "name": "一桥大学",
+    "department": "社会学研究科",
+    "campus": "国立",
+    "activeSeason": "summer",
+    "seasons": {
+      "summer": {
+        "status": "verified",
+        "ddl": [
+          {
+            "event": "个别入学资格审查书类提交",
+            "date": "2025-07-01",
+            "displayText": "2025年7月1日（周二）～7月11日（周五）",
+            "sourceUrl": "https://www.soc.hit-u.ac.jp/admission/gs/old_pdf/mc2026s.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "仅适用于出愿资格(10)的志愿者，一般志愿者无需此步骤"
+          },
+          {
+            "event": "入学资格审查结果通知",
+            "date": "2025-07-25",
+            "displayText": "2025年7月25日（周五）前后",
+            "sourceUrl": "https://www.soc.hit-u.ac.jp/admission/gs/old_pdf/mc2026s.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "仅适用于出愿资格(10)的志愿者"
+          },
+          {
+            "event": "出愿书类提交期间",
+            "date": "2025-07-29",
+            "displayText": "2025年7月29日（周二）～8月7日（周四）17:00必着",
+            "sourceUrl": "https://www.soc.hit-u.ac.jp/admission/gs/old_pdf/mc2026s.pdf",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "参考2026年度夏季入试；2027年度日期待官网发布后核验"
+          }
+        ],
+        "materials": [
+          {
+            "name": "志願票",
+            "format": "纸质，3通，WEB出愿登记后从「志願者個人ページ」下载打印，每通单独订书钉",
+            "medium": "paper",
+            "riskLevel": "high",
+            "note": "必须先完成WEB出愿登记才能下载，顺序不可颠倒"
+          },
+          {
+            "name": "研究計画書",
+            "format": "纸质，3通，1通用所定用纸日文撰写，其余2通为复印件，每通单独订书钉",
+            "medium": "paper",
+            "riskLevel": "high",
+            "note": "必须使用所定用纸，不可自行设计格式"
+          },
+          {
+            "name": "卒業（見込）証明書",
+            "format": "1通，出身大学长出具；本学毕业/在读者以成绩证明书代替",
+            "medium": "paper",
+            "riskLevel": "medium",
+            "note": "外国学校出身者需另附取得学位（B.A./B.S.等）证明1通"
+          },
+          {
+            "name": "成績証明書",
+            "format": "3通，原本1通＋复印件2通，出身大学长出具",
+            "medium": "paper",
+            "riskLevel": "medium",
+            "note": ""
+          },
+          {
+            "name": "外国語検定試験スコアレポート写し",
+            "format": "任意（推荐），3通，TOEFL/TOEIC等均可，复数成绩各3通",
+            "medium": "paper",
+            "riskLevel": "low",
+            "note": "非必须但推荐提交，语言不限"
+          },
+          {
+            "name": "在留カード写し（外国人志願者）",
+            "format": "1通，复印件；无在留卡者提交护照复印件",
+            "medium": "paper",
+            "riskLevel": "medium",
+            "note": "外国人志愿者必须提交"
+          },
+          {
+            "name": "検定料 30,000円",
+            "format": "银行转账/便利店/Payjoy/网银/信用卡，出愿期间内完成，附收据贴A4纸提交",
+            "medium": "online",
+            "riskLevel": "medium",
+            "note": "银行转账：三井住友银行国立支店，口座番号7761819；文部省奖学金留学生免缴但需提交证明书"
+          },
+          {
+            "name": "提出物チェックリスト",
+            "format": "1通，所定用纸",
+            "medium": "paper",
+            "riskLevel": "low",
+            "note": ""
+          }
+        ],
+        "warnings": [
+          {
+            "level": "high",
+            "text": "出愿截止为8月7日（周四）17:00必着，以到达时间为准，消印日期无效。请提前3-5天寄出。"
+          },
+          {
+            "level": "high",
+            "text": "WEB出愿登记＋邮寄双轨：必须先完成WEB系统登记，下载打印志願票后，再邮寄全部纸质材料。"
+          },
+          {
+            "level": "medium",
+            "text": "研究计划书必须使用研究科所定用纸，不可自行设计格式。"
+          }
+        ]
+      },
+      "winter": {
+        "status": "pending",
+        "ddl": [
+          {
+            "event": "出愿期间",
+            "date": null,
+            "displayText": "募集要项发布后更新",
+            "sourceUrl": "https://www.soc.hit-u.ac.jp/admission/gs/nyushi.html",
+            "verifiedAt": null,
+            "dataStatus": "pending",
+            "referenceNote": "参考往年春期入试：1月上中旬，以当年募集要项为准"
+          }
+        ],
+        "materials": [],
+        "warnings": [
+          {
+            "level": "high",
+            "text": "冬季（春期）入试信息待募集要项发布后更新。"
+          }
+        ]
+      }
+    },
+    "officialUrls": [
+      {
+        "label": "招生总览",
+        "url": "https://www.soc.hit-u.ac.jp/admission/gs/nyushi.html",
+        "verifiedAt": null
+      },
+      {
+        "label": "教員紹介",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "verifiedAt": null
+      },
+      {
+        "label": "ジェンダー社会科学研究センター",
+        "url": "https://gender.soc.hit-u.ac.jp/",
+        "verifiedAt": "2026-04-30"
+      }
+    ],
+    "facultyIds": [],
+    "has_mentor_library": true,
+    "examType": "general"
+  },
+  {
+    "id": "waseda",
+    "name": "早稻田大学",
+    "department": "社会科学研究科",
+    "campus": "早稻田",
+    "activeSeason": "summer",
+    "seasons": {
+      "summer": {
+        "status": "verified",
+        "ddl": [
+          {
+            "event": "出愿资格确认截止（资格⑥⑦）",
+            "date": "2025-07-30",
+            "displayText": "2025年7月30日（周三）",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "仅适用于出愿资格⑥⑦的志愿者，需提前邮件问询研究科入试系"
+          },
+          {
+            "event": "出愿期间",
+            "date": "2025-08-22",
+            "displayText": "2025年8月22日（周五）～9月5日（周五）17:00",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "参考2026年度；2027年度日期待官网发布后核验"
+          },
+          {
+            "event": "第1次选考合格者发表",
+            "date": "2025-11-14",
+            "displayText": "2025年11月14日（周五）",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified"
+          },
+          {
+            "event": "第2次选考（面接试验）",
+            "date": "2025-11-30",
+            "displayText": "2025年11月30日（周日）",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified"
+          },
+          {
+            "event": "第2次选考合格者发表",
+            "date": "2025-12-15",
+            "displayText": "2025年12月15日（周一）",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified"
+          },
+          {
+            "event": "入学金纳入期限",
+            "date": "2026-01-16",
+            "displayText": "2025年12月15日（周一）～2026年1月16日（周五）",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "合格後手続，非出愿DDL"
+          },
+          {
+            "event": "入学手续书类提出",
+            "date": "2026-02-20",
+            "displayText": "2026年2月9日（周一）～2月20日（周五）",
+            "sourceUrl": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+            "verifiedAt": "2026-04-30",
+            "dataStatus": "verified",
+            "referenceNote": "合格後手续，非出愿DDL"
+          }
+        ],
+        "materials": [
+          {
+            "name": "検定料 30,000円",
+            "format": "信用卡/中国オンライン決済（支付宝・银联）/其他支付方式，出愿期间内完成",
+            "medium": "online",
+            "riskLevel": "high",
+            "note": "信用卡・中国オンライン決済须事前在e-shiharai.net完成申込手续：第一选択=社会科学研究科，第二选択=2026年4月入学，第四选択=修士課程一般入試・社会人特別入試 30,000円"
+          },
+          {
+            "name": "出愿书类（TAO系统上传）",
+            "format": "全线上，通过TAO系统上传，截止时间以系统显示为准",
+            "medium": "online",
+            "riskLevel": "high",
+            "note": "建议出愿截止前30天注册TAO账号并熟悉上传格式和文件规格要求"
+          },
+          {
+            "name": "卒業（見込）証明書",
+            "format": "TAO系统上传，出身大学出具",
+            "medium": "online",
+            "riskLevel": "medium",
+            "note": "外国学校出身者需含取得学位记载；16年学校教育但不等同于日本大学学部修了者不可出愿"
+          },
+          {
+            "name": "成績証明書",
+            "format": "TAO系统上传",
+            "medium": "online",
+            "riskLevel": "medium",
+            "note": ""
+          },
+          {
+            "name": "语言能力证明（TOEFL/TOEIC/JLPT等）",
+            "format": "TAO系统上传，官方成绩单，不接受复印件",
+            "medium": "online",
+            "riskLevel": "medium",
+            "note": "须为官方成绩单，不接受复印件"
+          }
+        ],
+        "warnings": [
+          {
+            "level": "high",
+            "text": "出愿截止为9月5日（周五）17:00，以TAO系统受理时间为准。建议至少提前3天完成上传，避免系统拥堵。"
+          },
+          {
+            "level": "high",
+            "text": "检定料（信用卡/中国オンライン決済）须事前在e-shiharai.net完成申込手续，不可在截止当天才操作。"
+          },
+          {
+            "level": "medium",
+            "text": "出愿资格⑥⑦需在7月30日前邮件问询研究科入试系确认资格，否则无法出愿。"
+          }
+        ]
+      },
+      "winter": {
+        "status": "inactive"
+      }
+    },
+    "officialUrls": [
+      {
+        "label": "招生总览",
+        "url": "https://www.waseda.jp/fss/gsss/applicants/admission/",
+        "verifiedAt": "2026-04-30"
+      },
+      {
+        "label": "检定料在线支付（e-shiharai.net）",
+        "url": "https://e-shiharai.net/card/",
+        "verifiedAt": "2026-04-30"
+      },
+      {
+        "label": "研究者数据库（导师检索）",
+        "url": "https://w-rdb.waseda.jp/",
+        "verifiedAt": "2026-04-30"
+      }
+    ],
+    "facultyIds": [],
+    "has_mentor_library": true,
+    "examType": "general"
+  }
+]

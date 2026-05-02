@@ -2,8 +2,7 @@
 
 > 📍 **这是什么**：项目运营状态。当前进度 + 任务 + 未决问题 + agent 工作协议。
 > 📍 **不是什么**：决策(`DECISIONS.md`) / 功能规格(`PRD.md` / `PRD-mentors.md`) / 代码组织(`PROJECT_STRUCTURE.md`)
-> 🕐 **最后更新**：2026-05-01 · Claude (新增 §-1 产品方向，增量纳入「导师库」模块 B)
-🕐 **最后更新**：2026-05-01 · Huan(收敛 P-1 落档完成 + 模块 B 规模缩减为每校 5 位)
+> 🕐 **最后更新**：2026-05-02 · Cursor agent（模块 A 前端接入 + mentors `school_id` 对齐导入；供 Claude Code 接力见 §6）
 
 ---
 
@@ -91,10 +90,11 @@
 
 ## 1. 当前状态
 
-PRD v1.0(模块 A) + PRD-mentors v0.3(模块 B) 双 PRD 已落档。
-DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
-确定为 AI 主流程(MENTOR-PERPLEXITY-PROMPTS v0.1),废弃人工 SOP 路线。
-代码尚未启动,下一步是模块 A 的 schools.json 起步 + 模块 B 的 3 位导师实测。
+PRD v1.0（模块 A）+ PRD-mentors（模块 B）已落档；DECISIONS 已合并 Q1–Q12 等。
+
+**代码仓库（`kaoxue-meow/app`）**：模块 A 已接入结构化 `schools.json`（季节、DDL、材料、warnings、官方链接字段）；首页与学校详情页已展示倒计时横幅（ISO 日期）、核验摘要、分区内容。**模块 B**：`app/src/data/mentors.json` 已从根目录 `data/mentors.json` 同步导入，`school_id` 已与 `schools.json` 的 `id` 对齐（见 §6）；四所学校的 `has_mentor_library` 已置为 `true`。已移除 Saved/Tracker 路由与半吊子 localStorage，与「无账户」MVP 一致。
+
+下一步可选：模块 B 导师卡 UI  polish、埋点、或继续扩充 `schools.json` 核验字段。
 
 ---
 
@@ -122,18 +122,19 @@ DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
   
 
 ### 🟢 P0 · 模块 A (信息工具)
-- [ ] schools.json 初版(3 个专攻起步) — 上下文: §B
-- [ ] 首页卡片网格 — 上下文: §A、§D
-- [ ] 详情页骨架(5 区块) — 上下文: §C
+- [x] schools.json 初版（4 研究科 + `seasons` / `deadlines` / `materials` 等）— 上下文: §B — **2026-05-02 已接入前端，部分 DDL 仍为 pending + referenceNote**
+- [x] 首页卡片网格（季节标签 + 核验摘要 + 最近 ISO 节点横幅）— 上下文: §A、§D
+- [x] 详情页骨架（出愿日程 / 材料 / 套磁信息 / 官方链接 / warnings；导师块保留）— 上下文: §C
 
 ### 🟢 P0 · 模块 B (导师库工具)
-- [ ] **mentors.json schema 设计**(只出字段表，不录数据) — 上下文: §H — ⚠️ 依赖 P-1 落档完成
-- [ ] **第一批学校名单冻结**(国立核心 + 私立核心 + 补位 ; 10 校 or 15 校先决) — 推荐 Huan + Claude Desktop — ⚠️ 见 ❓Q7
-- [ ] **导师选择策略二选一**(A 覆盖 4 主题广度 vs B 优先学生踩坑最多) — 推荐 Huan 决定 — ⚠️ 见 ❓Q8
-- [ ] **🧪 实测 Perplexity 提示词**——挑 3 位你最熟悉的东大导师跑主提示词,
+- [x] **mentors.json schema 设计**(只出字段表，不录数据) — 上下文: §H — ⚠️ 依赖 P-1 落档完成
+- [x] **第一批学校名单冻结**(国立核心 + 私立核心 + 补位 ; 10 校 or 15 校先决) — 推荐 Huan + Claude Desktop — ⚠️ 见 ❓Q7
+先不做目前学校名单以外的学校,考虑第二次迭代的时候再增加
+- [x] **导师选择策略二选一**(A 覆盖 4 主题广度 vs B 优先学生踩坑最多) — 推荐 Huan 决定 — ⚠️ 见 ❓Q8 导师其实已决策完,主要是按照领域进行选择
+- [x] **🧪 实测 Perplexity 提示词**——挑 3 位你最熟悉的东大导师跑主提示词,
   记录翻车点,产出 PROMPTS v0.2 迭代依据 — 上下文: §H +
   MENTOR-PERPLEXITY-PROMPTS §3 — ⏰ 优先级最高,因为它会影响后续所有标注
-
+提示词已产出，范围仅限当前四校
 ### 🟡 P1
 - [ ] 速览指南模态框 — 上下文: §D
 - [ ] 新手浮层(localStorage) — 上下文: §D
@@ -156,6 +157,9 @@ DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
 - 2026-05-01 PRD-mentors v0.3 落档(从 v0.1 → v0.2 → v0.3 三次迭代)
 - 2026-05-01 MENTOR-PERPLEXITY-PROMPTS v0.1 落档(替代废弃的 MENTOR-SOP)
 - 2026-05-01 模块 B 规模决策:每校 5 位,总 50-75 位
+- 2026-05-02 模块 A 前端：`Home.jsx` / `SchoolPage.jsx` 接入新 `schools.json`；新增 `utils/schools.js`、`components/ui/DataStatusBadge`、`WarningCard`；`npm run build` 通过
+- 2026-05-02 导师数据：`scripts/sync-mentors-school-ids.mjs` 将旧键 `utokyo`→按 `faculty_zh` 分为 `todai-bunkei` / `todai-sogo`，`hit-u`→`hitotsubashi`；根目录 `data/mentors.json` 与 `app/src/data/mentors.json` 同步；`schools.json` 四校 `has_mentor_library: true`；`api/mentors.js` 查询兼容 `hit-u`；`MentorPage.jsx` 展示学校中文名链接
+- 2026-05-02 MVP 收敛：删除 `SavedPage` / `TrackerPage`、`useLocalStorage` 及相关路由/导航；`MentorPage` 去掉收藏逻辑
 ---
 
 ## 4. 待澄清问题
@@ -170,7 +174,7 @@ DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
 - **Q5** 部署方案 → **GitHub Pages**
 - **Q6** sources.csv 角色 → **保留为数据溯源记录，前端不展示**
 - **Q7** 学校总数 → **模块 A 最终 15 校，模块 B 最终 10-15 校**
-- **Q8** 第一批导师选择策略 → **B 优先（学生踩坑最多）+ 每校至少 1-2 位其他主题导师**
+- **Q8** 第一批导师选择策略 → **B 优先（学生踩坑最多）+ 每校至少 1-2 位其他主题导师** 
 - **Q9** 数据存储 → **拆分为 `schools.json` + `mentors.json`，通过 `school_id` 关联**
 - **Q10** 多语言字段 → **schema 预留 `name_ja`, `name_en` 等字段，初始为空**
 - **Q11** 教员列表入口 → **外链官方教员页面，不嵌入**
@@ -181,7 +185,7 @@ DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
 
 ---
 
-## ## 5. 上下文片段索引
+## 5. 上下文片段索引
 
 ### §A · 项目目标与北极星 (模块 A)
 - 阅读: `PRD.md` §2.1, §2.2, §2.3
@@ -228,6 +232,22 @@ DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
     - **接收信号语言**: 写"页面是否出现接收相关描述"，不写"收/不收"
 - agent 做模块 B 任务时，**第一件事**确认 `docs/PRD-mentors.md` 是否已存在；不存在则拒绝开工，把任务挪回 P-1
 
+## 6. 实施日志 · 给 Claude Code / 终端 agent 接力（最近）
+
+> 本节记录**已实现行为与文件**，避免下一会话重复造轮或与文档脱节。更细决策仍以 DECISIONS / PRD 为准。
+
+### 2026-05-02
+
+| 主题 | 摘要 |
+|------|------|
+| 数据关联 | `mentors[].school_id` 使用与 `schools[].id` 相同的 canonical id：`todai-bunkei`、`todai-sogo`、`hitotsubashi`、`waseda`。旧 Perplexity 键已在对 JSON 的脚本中映射完毕。 |
+| 双份 mentors | 权威清洗入口：`data/mentors.json`（仓库根）。同步命令：`node scripts/sync-mentors-school-ids.mjs`（会覆盖写入 `app/src/data/mentors.json`）。 |
+| 模块 A UI | 详情页含：最近 ISO 倒计时（附免责声明）、风险提示、按季节的 DDL/材料、套磁信息、`pdfUrl` / `admissionPageUrl` / `facultyListingUrl`、去重后的其他 `officialUrls`。 |
+| API 兼容 | `getMentorsBySchoolId('hit-u')` 仍指向 `hitotsubashi`；路由参数来自 `schools.json` 时均为新 id。 |
+| 构建 | 在 `app/` 目录执行 `npm run build` 作为回归检查。 |
+
+**接力时注意**：部分 DDL 为「区间→示例 ISO」展示，UI 已提示以 PDF 为准；非 ISO 的 `date` 字符串不进入倒计时逻辑。
+
 ## 附录 · agent 收工模板
 
 ```
@@ -248,3 +268,4 @@ DECISIONS.md 已合并 Q1-Q12 + Q-mB-1~4 的决策。模块 B 标注流程
 ⚠️ 与已有文档冲突 (如有):
 （哪份文档哪一节 + 冲突点）
 ```
+
