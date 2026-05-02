@@ -1,0 +1,1545 @@
+[
+  {
+    "id": "utokyo_001",
+    "school_id": "utokyo",
+    "name_zh": "赤川学",
+    "name_ja": "赤川 学",
+    "name_en": "AKAGAWA Manabu",
+    "title": "教授",
+    "faculty_zh": "人文社会系研究科",
+    "specialization_zh": "社会学",
+    "url_homepage": "https://www.l.u-tokyo.ac.jp/sociology/akagawa/",
+    "url_faculty_listing": "https://www.l.u-tokyo.ac.jp/teacher/database/165.html",
+    "url_lab": null,
+    "url_researchmap": "https://researchmap.jp/read0116344",
+    "tag_primary": "Gender",
+    "tags_secondary": [
+      "社会福祉"
+    ],
+    "keywords": [
+      "性别研究",
+      "性社会学",
+      "少子化",
+      "社会问题",
+      "历史社会学",
+      "人口减少"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会问题社会学，历史社会学，性社会学",
+        "title_original": "社会問題の社会学，歴史社会学，セクシュアリティ研究",
+        "url": "https://www.l.u-tokyo.ac.jp/teacher/database/165.html",
+        "source_type": "homepage_research_interest"
+      },
+      {
+        "title_zh": "教授个人页面",
+        "title_original": "赤川 学（あかがわ まなぶ）教授",
+        "url": "https://www.l.u-tokyo.ac.jp/sociology/akagawa/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_002",
+    "school_id": "utokyo",
+    "name_zh": "井口高志",
+    "name_ja": "井口 高志",
+    "name_en": "IGUCHI Takashi",
+    "title": "教授",
+    "faculty_zh": "人文社会系研究科",
+    "specialization_zh": "社会学",
+    "url_homepage": "https://www.l.u-tokyo.ac.jp/sociology/iguchi/",
+    "url_faculty_listing": "https://www.l.u-tokyo.ac.jp/teacher/database/7049.html",
+    "url_lab": null,
+    "url_researchmap": "https://researchmap.jp/kakomu",
+    "tag_primary": "社会福祉",
+    "tags_secondary": [
+      "其他"
+    ],
+    "keywords": [
+      "介護",
+      "認知症",
+      "福祉社会学",
+      "医療社会学",
+      "ケア",
+      "支援"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究方向：ケア・支援、医療、福祉社会学",
+        "title_original": "ケア・支援の社会学、医療社会学、福祉社会学などを専門とする",
+        "url": "https://www.l.u-tokyo.ac.jp/sociology/iguchi/",
+        "source_type": "homepage_research_interest"
+      },
+      {
+        "title_zh": "研究者数据库：认知症、护理、社会福祉",
+        "title_original": "専門はケア・支援の社会学、医療社会学、臨床社会学など",
+        "url": "https://www.l.u-tokyo.ac.jp/teacher/database/7049.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_001",
+    "school_id": "utokyo",
+    "name_zh": "井坂理穂",
+    "name_ja": "井坂 理穂",
+    "name_en": "ISAKA Riho",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 南アジア史",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "南亚历史",
+      "区域研究",
+      "现代史"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "教员一览：南亚史、南亚近代史",
+        "title_original": "専門分野|南アジア史 South Asian history",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_002",
+    "school_id": "utokyo",
+    "name_zh": "石橋純",
+    "name_ja": "石橋 純",
+    "name_en": "ISHIBASHI Jun",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 文化人類学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "文化人类学",
+      "民众文化",
+      "流行音乐",
+      "族群运动"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题：民族运动、流行音乐、民众文化",
+        "title_original": "研究テーマ|民族運動, ポピュラー音楽, 民衆文化",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_003",
+    "school_id": "utokyo",
+    "name_zh": "井上博之",
+    "name_ja": "井上 博之",
+    "name_en": "INOUE Hiroyuki",
+    "title": "准教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 米文学、映画",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "电影",
+      "美国文学",
+      "叙事",
+      "空间",
+      "文化研究"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题：美国西部小说与电影、叙事与空间",
+        "title_original": "研究テーマ|合衆国西部の小説と映画、物語と空間",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_004",
+    "school_id": "utokyo",
+    "name_zh": "王欽",
+    "name_ja": "王 欽",
+    "name_en": "WANG Qin",
+    "title": "准教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 比較文学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "近代文学",
+      "批评理论",
+      "文学研究"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题：中国近代文学、批评理论",
+        "title_original": "研究テーマ|中国近代文学、批評理論",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_005",
+    "school_id": "utokyo",
+    "name_zh": "岡田泰平",
+    "name_ja": "岡田 泰平",
+    "name_en": "OKADA Taihei",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 地域研究（東南アジア）",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "东南亚",
+      "社会史",
+      "区域研究"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题：20世纪东南亚社会史",
+        "title_original": "研究テーマ|20世紀の東南アジア社会史",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_006",
+    "school_id": "utokyo",
+    "name_zh": "金子亜美",
+    "name_ja": "金子 亜美",
+    "name_en": "KANEKO Ami",
+    "title": "准教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 文化人類学、ラテンアメリカ植民地史",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "文化人类学",
+      "拉丁美洲",
+      "殖民史",
+      "区域研究"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "专业方向：文化人类学、拉丁美洲殖民史",
+        "title_original": "専門分野|文化人類学、ラテンアメリカ植民地史",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_007",
+    "school_id": "utokyo",
+    "name_zh": "土屋和代",
+    "name_ja": "土屋 和代",
+    "name_en": "TSUCHIYA Kazuyo",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / アメリカ史、エスニック・スタディーズ",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [
+      "Gender"
+    ],
+    "keywords": [
+      "性别",
+      "社会福祉",
+      "种族",
+      "社会运动",
+      "城市史",
+      "在日朝鲜人"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题包含性别与社会福祉",
+        "title_original": "20th-century U.S. history, race/ethnicity, gender, social movements, social welfare, urban history",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_008",
+    "school_id": "utokyo",
+    "name_zh": "髙橋史子",
+    "name_ja": "髙橋 史子",
+    "name_en": "TAKAHASHI Fumiko",
+    "title": "准教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 教育社会学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [],
+    "keywords": [
+      "教育社会学",
+      "多文化社会",
+      "教育",
+      "青少年",
+      "心理健康"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题：多文化社会中的教育",
+        "title_original": "研究テーマ|多文化社会における教育",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_009",
+    "school_id": "utokyo",
+    "name_zh": "高橋英海",
+    "name_ja": "高橋 英海",
+    "name_en": "TAKAHASHI Hidemi",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / シリア学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "叙利亚学",
+      "宗教",
+      "古典语言"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "专业方向：叙利亚学",
+        "title_original": "専門分野|シリア学 Syriac Studies",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_ask_010",
+    "school_id": "utokyo",
+    "name_zh": "寺下和宏",
+    "name_ja": "寺下 和宏",
+    "name_en": "TERASHITA Kazuhiro",
+    "title": "講師",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "地域文化研究専攻 / 政治学",
+    "url_homepage": "https://kazuhiroterashita.com",
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "Gender",
+    "tags_secondary": [],
+    "keywords": [
+      "女性运动",
+      "韩国政治",
+      "社会运动",
+      "性别"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究主题：韩国的女性主义运动",
+        "title_original": "研究テーマ|社会運動のアウトカム、韓国におけるフェミニズム運動",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/ask/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_asis_001",
+    "school_id": "utokyo",
+    "name_zh": "阿古智子",
+    "name_ja": "阿古 智子",
+    "name_en": "AKO Tomoko",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "国際社会科学専攻 / 社会学、中国研究",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "社会学",
+      "中国研究",
+      "区域研究",
+      "社会问题"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "专业分野为社会学、中国研究",
+        "title_original": "専門分野|社会学、中国研究Sociology, China Studies",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_asis_002",
+    "school_id": "utokyo",
+    "name_zh": "市野川容孝",
+    "name_ja": "市野川 容孝",
+    "name_en": "ICHINOKAWA Yasutaka",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "国際社会科学専攻 / 社会学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [],
+    "keywords": [
+      "社会学",
+      "社会理論",
+      "福祉",
+      "社会思想"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "专业分野为社会学",
+        "title_original": "専門分野|社会学Sociology",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_asis_003",
+    "school_id": "utokyo",
+    "name_zh": "瀬地山角",
+    "name_ja": "瀬地山 角",
+    "name_en": "SECHIYAMA Kaku",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "国際社会科学専攻 / ジェンダー論、東アジア研究、社会学",
+    "url_homepage": "http://sechiyama.la.coocan.jp/",
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "Gender",
+    "tags_secondary": [
+      "文化"
+    ],
+    "keywords": [
+      "性别",
+      "东亚",
+      "比较社会学",
+      "性社会学",
+      "家庭",
+      "女性"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "专业分野为性别论、东亚研究、社会学",
+        "title_original": "専門分野|ジェンダー論，東アジア研究，社会学",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+        "source_type": "homepage_research_interest"
+      },
+      {
+        "title_zh": "研究主题为东亚性别比较社会学与性社会学",
+        "title_original": "研究テーマ|東アジアのジェンダーの比較社会学，セクシュアリティ研究",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "utokyo_asis_004",
+    "school_id": "utokyo",
+    "name_zh": "土屋和代",
+    "name_ja": "土屋 和代",
+    "name_en": "TSUCHIYA Kazuyo",
+    "title": "教授",
+    "faculty_zh": "総合文化研究科",
+    "specialization_zh": "国際社会科学専攻 / アメリカ史、エスニック・スタディーズ",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [
+      "Gender",
+      "文化"
+    ],
+    "keywords": [
+      "性别",
+      "福祉",
+      "社会运动",
+      "族裔",
+      "美国史",
+      "城市"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "研究内容包含性别、社会福祉、社会运动",
+        "title_original": "20th-century U.S. history, race/ethnicity, gender, social movements, social welfare, urban history",
+        "url": "https://www.c.u-tokyo.ac.jp/info/research/faculty/asis/index.html",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_001",
+    "school_id": "hit-u",
+    "name_zh": "佐藤圭一",
+    "name_ja": "佐藤 圭一",
+    "name_en": null,
+    "title": "准教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "社会学分野 / 政治社会学、環境社会学、社会ネットワーク分析、計量社会学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "政治社会学",
+      "环境社会学",
+      "社会网络",
+      "计量社会学"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会学分野教员列表中的研究方向",
+        "title_original": "政治社会学、環境社会学、社会ネットワーク分析、計量社会学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_002",
+    "school_id": "hit-u",
+    "name_zh": "多田治",
+    "name_ja": "多田 治",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "社会学分野 / 文化の社会学、社会理論、観光研究",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "文化社会学",
+      "旅游研究",
+      "社会理论",
+      "文化"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会学分野教员列表中的研究方向",
+        "title_original": "文化の社会学、社会理論、観光研究",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_003",
+    "school_id": "hit-u",
+    "name_zh": "飯尾真貴子",
+    "name_ja": "飯尾 真貴子",
+    "name_en": null,
+    "title": "専任講師",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "社会学分野 / 国際社会学、国際移動研究、移民政策論",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [],
+    "keywords": [
+      "国际社会学",
+      "移民政策",
+      "国际流动",
+      "社会政策"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会学分野教员列表中的研究方向",
+        "title_original": "国際社会学、国際移動研究、移民政策論",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_004",
+    "school_id": "hit-u",
+    "name_zh": "佐藤文香",
+    "name_ja": "佐藤 文香",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "社会学分野 / ジェンダーの社会理論・社会学、軍隊・戦争の社会学",
+    "url_homepage": "https://sato-fumikolabo.com/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://sato-fumikolabo.com/",
+    "url_researchmap": null,
+    "tag_primary": "Gender",
+    "tags_secondary": [],
+    "keywords": [
+      "性别",
+      "社会理论",
+      "战争社会学",
+      "军队",
+      "女性"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会学分野教员列表中的研究方向",
+        "title_original": "ジェンダーの社会理論・社会学、軍隊・戦争の社会学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_005",
+    "school_id": "hit-u",
+    "name_zh": "田中亜以子",
+    "name_ja": "田中 亜以子",
+    "name_en": null,
+    "title": "専任講師",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "社会学分野 / ジェンダー・セクシュアリティ研究、歴史社会学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "Gender",
+    "tags_secondary": [],
+    "keywords": [
+      "性别",
+      "性取向",
+      "历史社会学",
+      "社会学"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会学分野教员列表中的研究方向",
+        "title_original": "ジェンダー・セクシュアリティ研究、歴史社会学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_006",
+    "school_id": "hit-u",
+    "name_zh": "朴慧原",
+    "name_ja": "朴 慧原",
+    "name_en": null,
+    "title": "特任助教",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "共生社会研究分野 / 質的調査法、社会政策研究、比較社会政策論",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [],
+    "keywords": [
+      "社会政策",
+      "比较社会政策",
+      "福利",
+      "政策研究"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "共生社会研究分野教员列表中的研究方向",
+        "title_original": "質的調査法、社会政策研究、比較社会政策論",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_007",
+    "school_id": "hit-u",
+    "name_zh": "猪飼周平",
+    "name_ja": "猪飼 周平",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "共生社会研究分野 / 社会政策、社会福祉",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~shuii/",
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [],
+    "keywords": [
+      "社会福祉",
+      "社会政策",
+      "福利政策",
+      "照护",
+      "贫困"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "共生社会研究分野教员列表中的研究方向",
+        "title_original": "社会政策、社会福祉",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_008",
+    "school_id": "hit-u",
+    "name_zh": "白瀬由美香",
+    "name_ja": "白瀨 由美香",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "共生社会研究分野 / 社会福祉、社会政策",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "社会福祉",
+    "tags_secondary": [],
+    "keywords": [
+      "社会福祉",
+      "社会政策",
+      "福利制度",
+      "照护"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "共生社会研究分野教员列表中的研究方向",
+        "title_original": "社会福祉、社会政策",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_009",
+    "school_id": "hit-u",
+    "name_zh": "鈴木楓太",
+    "name_ja": "鈴木 楓太",
+    "name_en": null,
+    "title": "准教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "共生社会研究分野 / スポーツ史、スポーツ社会学、スポーツ・ジェンダー論",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "Gender",
+    "tags_secondary": [
+      "文化"
+    ],
+    "keywords": [
+      "性别",
+      "体育社会学",
+      "体育史",
+      "身体文化"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "共生社会研究分野教员列表中的研究方向",
+        "title_original": "スポーツ史、スポーツ社会学、スポーツ・ジェンダー論",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_010",
+    "school_id": "hit-u",
+    "name_zh": "洪郁如",
+    "name_ja": "洪 郁如",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "歴史社会文化研究分野 / アジア史、台湾近現代史、帝国植民統治史、歴史と記憶の研究",
+    "url_homepage": "https://www.soc.hit-u.ac.jp/~hyi/academicprofile/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~hyi/",
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "亚洲史",
+      "台湾近代史",
+      "殖民统治",
+      "历史记忆"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "历史社会文化研究分野教员列表中的研究方向",
+        "title_original": "アジア史、台湾近現代史、帝国植民統治史、歴史と記憶の研究",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_011",
+    "school_id": "hit-u",
+    "name_zh": "寺尾智史",
+    "name_ja": "寺尾 智史",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "歴史社会文化研究分野 / 言語社会学",
+    "url_homepage": "https://www.soc.hit-u.ac.jp/~terao/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~terao/",
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "语言社会学",
+      "文化",
+      "社会语言学"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "历史社会文化研究分野教员列表中的研究方向",
+        "title_original": "言語社会学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_012",
+    "school_id": "hit-u",
+    "name_zh": "ジョナサン・ルイス",
+    "name_ja": "ジョナサン・ルイス",
+    "name_en": "Jonathan Lewis",
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "超域社会研究分野 / 政治学、社会情報学、メディア研究",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "Media",
+    "tags_secondary": [],
+    "keywords": [
+      "媒体研究",
+      "社会信息学",
+      "政治学",
+      "平台",
+      "传播"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "超域社会研究分野教员列表中的研究方向",
+        "title_original": "政治学、社会情報学、メディア研究",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_013",
+    "school_id": "hit-u",
+    "name_zh": "稲葉哲郎",
+    "name_ja": "稲葉 哲郎",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "超域社会研究分野 / 社会心理学、メディア効果研究、世論研究",
+    "url_homepage": "https://www.soc.hit-u.ac.jp/~inaba/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~inaba/",
+    "url_researchmap": null,
+    "tag_primary": "Media",
+    "tags_secondary": [],
+    "keywords": [
+      "媒体效果",
+      "舆论",
+      "社会心理学",
+      "传播"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "超域社会研究分野教员列表中的研究方向",
+        "title_original": "社会心理学、メディア効果研究、世論研究",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_014",
+    "school_id": "hit-u",
+    "name_zh": "宮本百合",
+    "name_ja": "宮本 百合",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "超域社会研究分野 / 社会心理学、文化心理学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "文化心理学",
+      "社会心理学",
+      "文化",
+      "认知"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "超域社会研究分野教员列表中的研究方向",
+        "title_original": "社会心理学、文化心理学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_015",
+    "school_id": "hit-u",
+    "name_zh": "大杉高司",
+    "name_ja": "大杉 高司",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "超域社会研究分野 / 社会/文化人類学",
+    "url_homepage": "https://www.soc.hit-u.ac.jp/~ohsugi/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~ohsugi/",
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "文化人类学",
+      "社会人类学",
+      "文化",
+      "田野调查"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "超域社会研究分野教员列表中的研究方向",
+        "title_original": "社会/文化人類学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_016",
+    "school_id": "hit-u",
+    "name_zh": "久保明教",
+    "name_ja": "久保 明教",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "超域社会研究分野 / 社会/文化人類学",
+    "url_homepage": "https://www.soc.hit-u.ac.jp/~akubooo/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~akubooo/",
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "文化人类学",
+      "社会人类学",
+      "文化",
+      "民族志"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "超域社会研究分野教员列表中的研究方向",
+        "title_original": "社会/文化人類学",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "hit-u_017",
+    "school_id": "hit-u",
+    "name_zh": "赤嶺淳",
+    "name_ja": "赤嶺 淳",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会学研究科",
+    "specialization_zh": "超域社会研究分野 / フードスタディーズ、環境と社会",
+    "url_homepage": "https://www.soc.hit-u.ac.jp/~akamine/",
+    "url_faculty_listing": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+    "url_lab": "https://www.soc.hit-u.ac.jp/~akamine/",
+    "url_researchmap": null,
+    "tag_primary": "文化",
+    "tags_secondary": [],
+    "keywords": [
+      "饮食文化",
+      "食物研究",
+      "环境与社会",
+      "文化"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "超域社会研究分野教员列表中的研究方向",
+        "title_original": "フードスタディーズ、環境と社会",
+        "url": "https://www.soc.hit-u.ac.jp/teaching_staff/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "waseda_gsss_001",
+    "school_id": "waseda",
+    "name_zh": "古賀弘",
+    "name_ja": "古賀 弘",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会科学研究科",
+    "specialization_zh": "社会学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.waseda.jp/fsss/gsss/about/faculty/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "社会学",
+      "理論社会学"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会科学研究科教员名单中的社会学教师",
+        "title_original": "社会学",
+        "url": "https://www.waseda.jp/fsss/gsss/about/faculty/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  },
+  {
+    "id": "waseda_gsss_002",
+    "school_id": "waseda",
+    "name_zh": "周藤真也",
+    "name_ja": "周藤 真也",
+    "name_en": null,
+    "title": "教授",
+    "faculty_zh": "社会科学研究科",
+    "specialization_zh": "社会学",
+    "url_homepage": null,
+    "url_faculty_listing": "https://www.waseda.jp/fsss/gsss/about/faculty/",
+    "url_lab": null,
+    "url_researchmap": null,
+    "tag_primary": "其他",
+    "tags_secondary": [],
+    "keywords": [
+      "社会学",
+      "现代社会",
+      "理论"
+    ],
+    "tag_taxonomy_version": "v1",
+    "tag_source": "homepage_primary_field",
+    "evidence": [
+      {
+        "title_zh": "社会科学研究科教员名单中的社会学教师",
+        "title_original": "社会学",
+        "url": "https://www.waseda.jp/fsss/gsss/about/faculty/",
+        "source_type": "homepage_research_interest"
+      }
+    ],
+    "reception_signal": "not_mentioned",
+    "reception_excerpt_zh": "",
+    "reception_excerpt_original": "",
+    "reception_url": "",
+    "last_verified_at": "2026-05-01",
+    "verified_by": "perplexity_v1",
+    "status": "active",
+    "changelog": [
+      "2026-05-01: 首次录入，by perplexity_v1",
+      "2026-05-01: 数据清洗合并入 mentors.json,补 url_faculty_listing 字段(by clean_and_merge_mentors.py)"
+    ]
+  }
+]
