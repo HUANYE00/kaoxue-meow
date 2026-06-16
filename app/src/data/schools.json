@@ -48,60 +48,45 @@
           {
             "name": "入学願書",
             "format": "纸质，研究科所定样式",
-            "medium": "paper",
-            "riskLevel": "high",
             "note": "须填写志望専門分野名（非専攻名/コース名），及外语考试科目选择"
           },
           {
             "name": "研究計画書",
             "format": "纸质，研究科所定样式；社会学方向须附8000字卒业论文构想或研究要旨，并附日文摘要约8000字",
-            "medium": "paper",
-            "riskLevel": "high",
             "note": "社会学専門分野特殊要求：需同时提交论文要旨（3部，含复写）"
           },
           {
             "name": "成績証明書",
             "format": "原件，大学出具，不可复印",
-            "medium": "paper",
-            "riskLevel": "high",
             "note": "コピー不可"
           },
           {
             "name": "卒業（見込）証明書",
             "format": "原件，不可复印；若成績証明書已记载毕业年月日则免",
-            "medium": "paper",
-            "riskLevel": "medium",
             "note": "外国大学毕业者需含取得学位记载；コピー不可"
           },
           {
             "name": "日语能力证明",
             "format": "担任教员证明书 或 JLPT N1认定结果证明书（复印件可）",
-            "medium": "paper",
-            "riskLevel": "medium",
             "note": "日本国内大学毕业或在读者免提交"
           },
           {
             "name": "検定料 30,000円",
             "format": "银行转账/便利店支付/Payjoy/信用卡/支付宝/银联，振込期间内完成",
-            "medium": "online",
-            "riskLevel": "medium",
             "note": "夏季振込期间：6月8日～6月22日；文部省奖学金留学生免缴"
           },
           {
             "name": "写真 2葉",
             "format": "3个月内拍摄，正面上半身脱帽，縦5cm×横4cm，背面写姓名",
-            "medium": "paper",
-            "riskLevel": "low",
             "note": "黑白彩色均可"
           },
           {
             "name": "受験票送付用封筒",
             "format": "贴410円邮票，填写日本国内地址",
-            "medium": "paper",
-            "riskLevel": "medium",
             "note": "须填写日本国内住所，海外地址不可"
           }
         ],
+        "submission_method_overall": "邮送",
         "warnings": [
           {
             "level": "high",
@@ -115,7 +100,8 @@
             "level": "medium",
             "text": "社会学専門分野特殊要求：需额外提交8000字论文要旨（3部）及日文摘要，与其他専門分野材料不同。"
           }
-        ]
+        ],
+        "boshu_pdf_url": "https://www.l.u-tokyo.ac.jp/content/000014932.pdf"
       },
       "winter": {
         "status": "verified",
@@ -157,12 +143,14 @@
           }
         ],
         "materials": "same_as_summer",
+        "submission_method_overall": "邮送",
         "warnings": [
           {
             "level": "high",
             "text": "出愿仅限书留邮寄。消印规则：10月26日截止，10月27日后到达者需有10月26日前消印且11月2日前到达。"
           }
-        ]
+        ],
+        "boshu_pdf_url": null
       }
     },
     "officialUrls": [
@@ -194,7 +182,9 @@
     "activeSeason": "winter",
     "seasons": {
       "summer": {
-        "status": "inactive"
+        "status": "inactive",
+        "submission_method_overall": "",
+        "boshu_pdf_url": null
       },
       "winter": {
         "status": "verified",
@@ -251,6 +241,7 @@
           }
         ],
         "materials": [],
+        "submission_method_overall": "online",
         "warnings": [
           {
             "level": "high",
@@ -260,7 +251,8 @@
             "level": "medium",
             "text": "全线上申请：出愿者信息在线登记＋资料上传，无纸质邮寄环节。"
           }
-        ]
+        ],
+        "boshu_pdf_url": "https://www.c.u-tokyo.ac.jp/graduate/admission/master-doctor/2026/1_M_bunkei_yoko_2026.pdf"
       }
     },
     "officialUrls": [
@@ -326,60 +318,45 @@
           {
             "name": "志願票",
             "format": "纸质，3通，WEB出愿登记后从「志願者個人ページ」下载打印，每通单独订书钉",
-            "medium": "paper",
-            "riskLevel": "high",
             "note": "必须先完成WEB出愿登记才能下载，顺序不可颠倒"
           },
           {
             "name": "研究計画書",
             "format": "纸质，3通，1通用所定用纸日文撰写，其余2通为复印件，每通单独订书钉",
-            "medium": "paper",
-            "riskLevel": "high",
             "note": "必须使用所定用纸，不可自行设计格式"
           },
           {
             "name": "卒業（見込）証明書",
             "format": "1通，出身大学长出具；本学毕业/在读者以成绩证明书代替",
-            "medium": "paper",
-            "riskLevel": "medium",
             "note": "外国学校出身者需另附取得学位（B.A./B.S.等）证明1通"
           },
           {
             "name": "成績証明書",
             "format": "3通，原本1通＋复印件2通，出身大学长出具",
-            "medium": "paper",
-            "riskLevel": "medium",
             "note": ""
           },
           {
             "name": "外国語検定試験スコアレポート写し",
             "format": "任意（推荐），3通，TOEFL/TOEIC等均可，复数成绩各3通",
-            "medium": "paper",
-            "riskLevel": "low",
             "note": "非必须但推荐提交，语言不限"
           },
           {
             "name": "在留カード写し（外国人志願者）",
             "format": "1通，复印件；无在留卡者提交护照复印件",
-            "medium": "paper",
-            "riskLevel": "medium",
             "note": "外国人志愿者必须提交"
           },
           {
             "name": "検定料 30,000円",
             "format": "银行转账/便利店/Payjoy/网银/信用卡，出愿期间内完成，附收据贴A4纸提交",
-            "medium": "online",
-            "riskLevel": "medium",
             "note": "银行转账：三井住友银行国立支店，口座番号7761819；文部省奖学金留学生免缴但需提交证明书"
           },
           {
             "name": "提出物チェックリスト",
             "format": "1通，所定用纸",
-            "medium": "paper",
-            "riskLevel": "low",
             "note": ""
           }
         ],
+        "submission_method_overall": "online + 邮送",
         "warnings": [
           {
             "level": "high",
@@ -393,7 +370,8 @@
             "level": "medium",
             "text": "研究计划书必须使用研究科所定用纸，不可自行设计格式。"
           }
-        ]
+        ],
+        "boshu_pdf_url": "https://www.soc.hit-u.ac.jp/admission/gs/old_pdf/mc2026s.pdf"
       },
       "winter": {
         "status": "pending",
@@ -414,7 +392,9 @@
             "level": "high",
             "text": "冬季（春期）入试信息待募集要项发布后更新。"
           }
-        ]
+        ],
+        "submission_method_overall": "",
+        "boshu_pdf_url": null
       }
     },
     "officialUrls": [
@@ -513,39 +493,30 @@
           {
             "name": "検定料 30,000円",
             "format": "信用卡/中国オンライン決済（支付宝・银联）/其他支付方式，出愿期间内完成",
-            "medium": "online",
-            "riskLevel": "high",
             "note": "信用卡・中国オンライン決済须事前在e-shiharai.net完成申込手续：第一选択=社会科学研究科，第二选択=2026年4月入学，第四选択=修士課程一般入試・社会人特別入試 30,000円"
           },
           {
             "name": "出愿书类（TAO系统上传）",
             "format": "全线上，通过TAO系统上传，截止时间以系统显示为准",
-            "medium": "online",
-            "riskLevel": "high",
             "note": "建议出愿截止前30天注册TAO账号并熟悉上传格式和文件规格要求"
           },
           {
             "name": "卒業（見込）証明書",
             "format": "TAO系统上传，出身大学出具",
-            "medium": "online",
-            "riskLevel": "medium",
             "note": "外国学校出身者需含取得学位记载；16年学校教育但不等同于日本大学学部修了者不可出愿"
           },
           {
             "name": "成績証明書",
             "format": "TAO系统上传",
-            "medium": "online",
-            "riskLevel": "medium",
             "note": ""
           },
           {
             "name": "语言能力证明（TOEFL/TOEIC/JLPT等）",
             "format": "TAO系统上传，官方成绩单，不接受复印件",
-            "medium": "online",
-            "riskLevel": "medium",
             "note": "须为官方成绩单，不接受复印件"
           }
         ],
+        "submission_method_overall": "online",
         "warnings": [
           {
             "level": "high",
@@ -559,10 +530,13 @@
             "level": "medium",
             "text": "出愿资格⑥⑦需在7月30日前邮件问询研究科入试系确认资格，否则无法出愿。"
           }
-        ]
+        ],
+        "boshu_pdf_url": null
       },
       "winter": {
-        "status": "inactive"
+        "status": "inactive",
+        "submission_method_overall": "",
+        "boshu_pdf_url": null
       }
     },
     "officialUrls": [

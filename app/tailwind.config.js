@@ -6,14 +6,23 @@ export default {
       colors: {
         brand: {
           ink: '#111827',
-          text: '#333333',
-          bg: '#F9FAFB',
-          // 轻微点缀（低饱和），用于“soft_color”
-          primary: '#2E4A8E',
+          text: '#1F1A14',
+          bg: '#FAF6F0',
+          primary: '#F5B82E',
           accent: '#1A6B5A',
           warning: '#B05500',
           danger: '#991B1B',
         },
+      },
+      fontFamily: {
+        serif: [
+          'ui-serif',
+          'Georgia',
+          'Cambria',
+          'Times New Roman',
+          'Times',
+          'serif',
+        ],
       },
     },
   },
